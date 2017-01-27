@@ -1,2 +1,2 @@
 # test1
-terni projekt
+testni projekt
